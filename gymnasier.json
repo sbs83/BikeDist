@@ -1,0 +1,1171 @@
+[
+  {
+    "name": "A.P. Møller Skolen",
+    "address": "24837 Slesvig, Tyskland, 4621 48200",
+    "region": "Sydslesvig",
+    "lat": 54.515256,
+    "lon": 9.585608
+  },
+  {
+    "name": "Aabenraa Statsskole",
+    "address": "Forstalle 14, 6200 Aabenraa",
+    "region": "Region Syddanmark",
+    "lat": 55.045114,
+    "lon": 9.4116
+  },
+  {
+    "name": "Aalborg City Gymnasium",
+    "address": "På Sporet 4, 9000 Aalborg",
+    "region": "Region Nordjylland",
+    "lat": 57.042208,
+    "lon": 9.921293
+  },
+  {
+    "name": "Aalborg Katedralskole",
+    "address": "Sankt Jørgens Gade 5, 9100 Aalborg",
+    "region": "Region Nordjylland",
+    "lat": 57.048124,
+    "lon": 9.911234
+  },
+  {
+    "name": "Aalborghus Gymnasium",
+    "address": "Sohngårdsholmsvej 60, 9000 Aalborg",
+    "region": "Region Nordjylland",
+    "lat": 57.025801,
+    "lon": 9.942754
+  },
+  {
+    "name": "Aarhus HF og VUC",
+    "address": "Dalgas Avenue 2, 8000 Århus C",
+    "region": "Region Midtjylland",
+    "lat": 56.144084,
+    "lon": 10.199966
+  },
+  {
+    "name": "Aarhus Katedralskole",
+    "address": "Skolegyde 1, 8000 Århus C",
+    "region": "Region Midtjylland",
+    "lat": 56.157174,
+    "lon": 10.212015
+  },
+  {
+    "name": "Aarhus Tech",
+    "address": "Halmstadgade 6, 8200 Aarhus N",
+    "region": "Region Midtjylland",
+    "lat": 56.184402,
+    "lon": 10.191572
+  },
+  {
+    "name": "Allerød Gymnasium",
+    "address": "Rådhusvej 6, 3450 Alleroed",
+    "region": "Region Hovedstaden",
+    "lat": 55.866017,
+    "lon": 12.333671
+  },
+  {
+    "name": "Alssundsgymnasiet Sønderborg",
+    "address": "Grundtvigs Alle 86, 6400 Sønderborg",
+    "region": "Region Syddanmark",
+    "lat": 54.899351,
+    "lon": 9.810573
+  },
+  {
+    "name": "Aurehøj Gymnasium",
+    "address": "Skolevej 7, 2820 Gentofte Region Hovedstaden",
+    "region": "Region Hovedstaden",
+    "lat": 55.74564,
+    "lon": 12.544803
+  },
+  {
+    "name": "Bagsværd Kostskole og Gymnasium",
+    "address": "Aldershvilevej 138, 2880 Bagsværd",
+    "region": "Region Hovedstaden",
+    "lat": 55.764553,
+    "lon": 12.451438
+  },
+  {
+    "name": "Birkerød Gymnasium og HF",
+    "address": "Soendervangen 56, 3460 Birkeroed",
+    "region": "Region Hovedstaden",
+    "lat": 55.838543,
+    "lon": 12.439104
+  },
+  {
+    "name": "Bjerringbro Gymnasium",
+    "address": "P. E. Eriksens Vej 2, 8850 Bjerringbro",
+    "region": "Region Midtjylland",
+    "lat": 56.365273,
+    "lon": 9.67187
+  },
+  {
+    "name": "Borupgaard Gymnasium",
+    "address": "Lautruphoej 9, 2750 Ballerup",
+    "region": "Region Hovedstaden",
+    "lat": 55.735685,
+    "lon": 12.382995
+  },
+  {
+    "name": "Brøndby Gymnasium",
+    "address": "Broendby Stadion 28, 2605 Broendby",
+    "region": "Region Hovedstaden",
+    "lat": 55.649259,
+    "lon": 12.419567
+  },
+  {
+    "name": "Brønderslev Gymnasium",
+    "address": "Islands Alle 20, 9700 Brønderslev",
+    "region": "Region Nordjylland",
+    "lat": 57.278786,
+    "lon": 9.942062
+  },
+  {
+    "name": "Campus Bornholm",
+    "address": "Minervavej 1, 3700 Rønne",
+    "region": "Region Hovedstaden",
+    "lat": 55.106771,
+    "lon": 14.712703
+  },
+  {
+    "name": "Campus Kujalleq, Sydgrønlands Gymnasium, GUX",
+    "address": "Vestervej B, 1266",
+    "region": "Grønland",
+    "lat": 60.718438,
+    "lon": -46.044705
+  },
+  {
+    "name": "Christianshavns Gymnasium",
+    "address": "Prinsessegade 35, 1422 København K",
+    "region": "Region Hovedstaden",
+    "lat": 55.673249,
+    "lon": 12.595444
+  },
+  {
+    "name": "Det Frie Gymnasium",
+    "address": "Moellegade 26/Struenseegade 50, 2200 Koebenhavn N",
+    "region": "Region Hovedstaden",
+    "lat": 55.692553,
+    "lon": 12.558919
+  },
+  {
+    "name": "Det Kristne Gymnasium",
+    "address": "Vasevej 28-30, 6950 Ringkøbing",
+    "region": "Region Syddanmark",
+    "lat": 56.092591,
+    "lon": 8.26186
+  },
+  {
+    "name": "Dronninglund Gymnasium",
+    "address": "Soendervangsvej 1, 9330 Dronninglund",
+    "region": "Region Nordjylland",
+    "lat": 57.153946,
+    "lon": 10.278648
+  },
+  {
+    "name": "Duborg-Skolen",
+    "address": "Ritterstrasse 27, 24939 Flensborg, Deutschland",
+    "region": "Sydslesvig",
+    "lat": 54.792939,
+    "lon": 9.429464
+  },
+  {
+    "name": "Egaa Gymnasium",
+    "address": "Mejlbyvej 4, 8250 Egå",
+    "region": "Region Midtjylland",
+    "lat": 56.211986,
+    "lon": 10.271127
+  },
+  {
+    "name": "Egedal Gymnasium og HF",
+    "address": "Gymnasievej 1, 3660 Stenloese",
+    "region": "Region Hovedstaden",
+    "lat": 55.773569,
+    "lon": 12.197121
+  },
+  {
+    "name": "Esbjerg Gymnasium",
+    "address": "Spangsbjerg Moellevej 310, 6705 Esbjerg Ø",
+    "region": "Region Syddanmark",
+    "lat": 55.488909,
+    "lon": 8.490853
+  },
+  {
+    "name": "Espergærde Gymnasium og HF",
+    "address": "Gymnasievej 2, 3060 Espergærde",
+    "region": "Region Hovedstaden",
+    "lat": 55.998623,
+    "lon": 12.53204
+  },
+  {
+    "name": "European School Copenhagen",
+    "address": "Ny Carlsberg Vej 99, 1799 København V",
+    "region": "Region Hovedstaden",
+    "lat": 55.66704,
+    "lon": 12.534192
+  },
+  {
+    "name": "Faaborg Gymnasium",
+    "address": "Sundagervej 42, 5600 Faaborg",
+    "region": "Region Syddanmark",
+    "lat": 55.102394,
+    "lon": 10.249604
+  },
+  {
+    "name": "Falkonergårdens Gymnasium og HF-kursus",
+    "address": "Soenderjyllands Alle 25, 2000 Frederiksberg",
+    "region": "Region Hovedstaden",
+    "lat": 55.681592,
+    "lon": 12.496099
+  },
+  {
+    "name": "Favrskov Gymnasium",
+    "address": "Ellemosevej 30, 8370 Hadsten",
+    "region": "Region Midtjylland",
+    "lat": 56.331212,
+    "lon": 10.057358
+  },
+  {
+    "name": "Fjerritslev Gymnasium",
+    "address": "Skovbrynet 9, 9690 Fjerritslev",
+    "region": "Region Nordjylland",
+    "lat": 57.095106,
+    "lon": 9.269088
+  },
+  {
+    "name": "Fredericia Gymnasium",
+    "address": "Nørrebrogade 88, 7000 Fredericia",
+    "region": "Region Midtjylland",
+    "lat": 55.577632,
+    "lon": 9.748345
+  },
+  {
+    "name": "Frederiksberg Gymnasium",
+    "address": "Falkoner Plads 2, 2000 Frederiksberg",
+    "region": "Region Hovedstaden",
+    "lat": 55.68076,
+    "lon": 12.531486
+  },
+  {
+    "name": "Frederiksberg HF",
+    "address": "Soenderjyllands Alle 2, 2000 Frederiksberg",
+    "region": "Region Hovedstaden",
+    "lat": 55.680183,
+    "lon": 12.498734
+  },
+  {
+    "name": "Frederiksberg VUC & STX",
+    "address": "Falstersvej 3, 2000 Frederiksberg",
+    "region": "Region Hovedstaden",
+    "lat": 55.685524,
+    "lon": 12.527893
+  },
+  {
+    "name": "Frederiksborg Gymnasium og HF",
+    "address": "Carlsbergvej 15, 3400 Hilleroed",
+    "region": "Region Hovedstaden",
+    "lat": 55.925122,
+    "lon": 12.312931
+  },
+  {
+    "name": "Frederikshavn Gymnasium og HF-kursus",
+    "address": "Kærvej 1, 9900 Frederikshavn",
+    "region": "Region Nordjylland",
+    "lat": 57.44075,
+    "lon": 10.526423
+  },
+  {
+    "name": "Frederikssund Gymnasium",
+    "address": "Odinsvej 6, 3600 Frederikssund",
+    "region": "Region Hovedstaden",
+    "lat": 55.845977,
+    "lon": 12.063576
+  },
+  {
+    "name": "Frederiksværk Gymnasium og HF",
+    "address": "Strandgade 34, 3300 Frederiksværk",
+    "region": "Region Hovedstaden",
+    "lat": 55.973429,
+    "lon": 12.013564
+  },
+  {
+    "name": "Gefion Gymnasium",
+    "address": "Øster Voldgade 10, 1350 Koebenhavn K",
+    "region": "Region Hovedstaden",
+    "lat": 55.688409,
+    "lon": 12.580717
+  },
+  {
+    "name": "Gentofte Gymnasium",
+    "address": "Hartmannsvej 22, 2900 Hellerup",
+    "region": "Region Hovedstaden",
+    "lat": 55.743109,
+    "lon": 12.566312
+  },
+  {
+    "name": "Gentofte HF",
+    "address": "Dahlénsstræde 5, 2820 Gentofte",
+    "region": "Region Hovedstaden",
+    "lat": 55.74733,
+    "lon": 12.539366
+  },
+  {
+    "name": "Gl. Hellerup Gymnasium",
+    "address": "Svanemoellevej 87, 2900 Hellerup",
+    "region": "Region Hovedstaden",
+    "lat": 55.73062,
+    "lon": 12.573367
+  },
+  {
+    "name": "Gladsaxe Gymnasium",
+    "address": "Buddinge Hovedgade 81, 2860 Soeborg",
+    "region": "Region Hovedstaden",
+    "lat": 55.742518,
+    "lon": 12.491053
+  },
+  {
+    "name": "Glasir – Tórshavn College",
+    "address": "Janusargoeta 3, Postboks 218, 110 Tórshavn, Foeroyar",
+    "region": "Ukendt",
+    "lat": 62.006318,
+    "lon": -6.798989
+  },
+  {
+    "name": "Grenaa Gymnasium og HF",
+    "address": "N P Josiassens Vej 21, 8500 Grenaa",
+    "region": "Region Midtjylland",
+    "lat": 56.407883,
+    "lon": 10.889378
+  },
+  {
+    "name": "Greve Gymnasium",
+    "address": "Rådhusholmen 12, 2670 Greve",
+    "region": "Region Hovedstaden",
+    "lat": 55.582955,
+    "lon": 12.290276
+  },
+  {
+    "name": "Gribskov Gymnasium",
+    "address": "Østergade 52, 3200 Helsinge",
+    "region": "Region Hovedstaden",
+    "lat": 56.022817,
+    "lon": 12.208526
+  },
+  {
+    "name": "Grindsted Gymnasie- & Erhvervsskole",
+    "address": "Tinghusgade 20, 7200 Grindsted",
+    "region": "Region Midtjylland",
+    "lat": 55.754125,
+    "lon": 8.921437
+  },
+  {
+    "name": "GUX Aasiaat, Nordgrønlands Gymnasium",
+    "address": "Postbox 225, 3950 Aasiaat",
+    "region": "Grønland",
+    "lat": 68.706977,
+    "lon": -52.859122
+  },
+  {
+    "name": "GUX Nuuk, Midtgrønlands Gymnasium",
+    "address": "C.E. Jansensvej 11 Box, 1067",
+    "region": "Grønland",
+    "lat": 64.181567,
+    "lon": -51.73784
+  },
+  {
+    "name": "Haderslev Katedralskole",
+    "address": "Christiansfeldvej 31, 6100 Haderslev",
+    "region": "Region Syddanmark",
+    "lat": 55.260543,
+    "lon": 9.491862
+  },
+  {
+    "name": "Hasseris Gymnasium & IB",
+    "address": "Hasserisvej 300, 9000 Aalborg",
+    "region": "Region Nordjylland",
+    "lat": 57.025824,
+    "lon": 9.877619
+  },
+  {
+    "name": "Helsingør Gymnasium",
+    "address": "Borgm.P.Christensens Vej 3, 3000 Helsingoer",
+    "region": "Region Hovedstaden",
+    "lat": 56.022648,
+    "lon": 12.584753
+  },
+  {
+    "name": "Herlev Gymnasium & HF",
+    "address": "Højsletten 39, 2730 Herlev",
+    "region": "Region Hovedstaden",
+    "lat": 55.73158,
+    "lon": 12.418192
+  },
+  {
+    "name": "Herlufsholm Skole",
+    "address": "Herlufsholm Alle 170, 4700 Næstved",
+    "region": "Region Sjælland",
+    "lat": 55.245785,
+    "lon": 11.746342
+  },
+  {
+    "name": "Herning Gymnasium",
+    "address": "H P Hansens Vej 8, 7400 Herning",
+    "region": "Region Midtjylland",
+    "lat": 56.146777,
+    "lon": 8.978321
+  },
+  {
+    "name": "Herning HF og VUC",
+    "address": "Brorsonsvej 2, 7400 Herning",
+    "region": "Region Midtjylland",
+    "lat": 56.144291,
+    "lon": 8.968386
+  },
+  {
+    "name": "HF & VUC FYN",
+    "address": "Kottesgade 6-8, 5000 Odense C",
+    "region": "Region Syddanmark",
+    "lat": 55.402885,
+    "lon": 10.383319
+  },
+  {
+    "name": "HF & VUC København Syd",
+    "address": "Åmarkvej 1, 2650 Hvidovre",
+    "region": "Region Hovedstaden",
+    "lat": 55.640595,
+    "lon": 12.500046
+  },
+  {
+    "name": "HF & VUC Vest",
+    "address": "Kronprinsensgade 62, 6700 Esbjerg",
+    "region": "Region Syddanmark",
+    "lat": 55.470286,
+    "lon": 8.445612
+  },
+  {
+    "name": "Hf og VUC Roskilde-Køge",
+    "address": "",
+    "region": "Ukendt",
+    "lat": 55.640166,
+    "lon": 12.082229
+  },
+  {
+    "name": "HF&VUC NORD",
+    "address": "På Sporet 8, 4. sal, 9000 Aalborg",
+    "region": "Region Nordjylland",
+    "lat": 57.041828,
+    "lon": 9.920488
+  },
+  {
+    "name": "HF-Centret Efterslægten",
+    "address": "Efterslægtsvej 5, 2400 København NV",
+    "region": "Region Hovedstaden",
+    "lat": 55.709604,
+    "lon": 12.51431
+  },
+  {
+    "name": "Himmelev Gymnasium",
+    "address": "Herregårdsvej 30, 4000 Roskilde",
+    "region": "Region Sjælland",
+    "lat": 55.65663,
+    "lon": 12.112228
+  },
+  {
+    "name": "Hjørring Gymnasium STX & HF",
+    "address": "Skolevangen 23, 9800 Hjoerring",
+    "region": "Region Nordjylland",
+    "lat": 57.459205,
+    "lon": 9.996593
+  },
+  {
+    "name": "Holstebro Gymnasium og HF",
+    "address": "Doeesvej 64, 7500 Holstebro",
+    "region": "Region Midtjylland",
+    "lat": 56.370321,
+    "lon": 8.604849
+  },
+  {
+    "name": "Horsens Gymnasium & HF",
+    "address": "Studentervænget 2, 8700 Horsens",
+    "region": "Region Midtjylland",
+    "lat": 55.871692,
+    "lon": 9.826901
+  },
+  {
+    "name": "Horsens HF og VUC",
+    "address": "Holmboes Alle 1, 8700 Horsens",
+    "region": "Region Midtjylland",
+    "lat": 55.857062,
+    "lon": 9.84781
+  },
+  {
+    "name": "Høje-Taastrup Gymnasium",
+    "address": "Froegård Alle 2, 2630 Taastrup",
+    "region": "Region Hovedstaden",
+    "lat": 55.649304,
+    "lon": 12.262683
+  },
+  {
+    "name": "Høng Gymnasium og HF-kursus",
+    "address": "Hovedgaden 2, 4270 Hoeng",
+    "region": "Region Sjælland",
+    "lat": 55.506921,
+    "lon": 11.287356
+  },
+  {
+    "name": "Ikast-Brande Gymnasium",
+    "address": "Boegildvej 6, 7430 Ikast",
+    "region": "Region Midtjylland",
+    "lat": 56.135573,
+    "lon": 9.12702
+  },
+  {
+    "name": "Ingrid Jespersens Gymnasieskole",
+    "address": "Nordre Frihavnsgade 9, 2100 København Ø",
+    "region": "Region Hovedstaden",
+    "lat": 55.700375,
+    "lon": 12.578735
+  },
+  {
+    "name": "International School of Hellerup",
+    "address": "Præstøgade 17, 2100 København Ø",
+    "region": "Region Hovedstaden",
+    "lat": 55.700995,
+    "lon": 12.589734
+  },
+  {
+    "name": "Kalundborg Gymnasium og HF",
+    "address": "J Hagemann-Petersens Alle 4, 4400 Kalundborg",
+    "region": "Region Sjælland",
+    "lat": 55.681508,
+    "lon": 11.083635
+  },
+  {
+    "name": "Kolding Gymnasium, HF-kursus og IB School",
+    "address": "Skovvangen 10, 6000 Kolding",
+    "region": "Region Syddanmark",
+    "lat": 55.507811,
+    "lon": 9.474394
+  },
+  {
+    "name": "Kolding HF & VUC",
+    "address": "Kolding Åpark 16, 6000 Kolding",
+    "region": "Region Syddanmark",
+    "lat": 55.486564,
+    "lon": 9.488199
+  },
+  {
+    "name": "KTI, Kalaallit Nunaanni Teknikimik Ilinniarfik.",
+    "address": "Adammip Aqq. 2, 1001",
+    "region": "Grønland",
+    "lat": 66.93178,
+    "lon": -53.663004
+  },
+  {
+    "name": "Københavns VUC",
+    "address": "Vognmagergade 8, 1120 Koebenhavn K",
+    "region": "Region Hovedstaden",
+    "lat": 55.682454,
+    "lon": 12.578533
+  },
+  {
+    "name": "Københavns åbne Gymnasium",
+    "address": "Sjælør Boulevard 133, 2500 Valby",
+    "region": "Region Hovedstaden",
+    "lat": 55.655323,
+    "lon": 12.523973
+  },
+  {
+    "name": "Køge Gymnasium",
+    "address": "Gymnasievej 4, 4600 Køge",
+    "region": "Region Sjælland",
+    "lat": 55.455638,
+    "lon": 12.168557
+  },
+  {
+    "name": "Lemvig Gymnasium",
+    "address": "Romvej 30, 7620 Lemvig",
+    "region": "Region Midtjylland",
+    "lat": 56.541198,
+    "lon": 8.303709
+  },
+  {
+    "name": "Læreruddannelsen og hf i Nørre Nissum, VIA University College",
+    "address": "Svinget 5, 7620 Lemvig",
+    "region": "Region Midtjylland",
+    "lat": 56.54734,
+    "lon": 8.420313
+  },
+  {
+    "name": "Mariagerfjord Gymnasium",
+    "address": "Amerikavej 5, 9500 Hobro",
+    "region": "Region Nordjylland",
+    "lat": 56.633773,
+    "lon": 9.813035
+  },
+  {
+    "name": "Maribo Gymnasium",
+    "address": "Refshalevej 2, 4930 Maribo",
+    "region": "Region Sjælland",
+    "lat": 54.773346,
+    "lon": 11.509104
+  },
+  {
+    "name": "Marie Kruses Skole",
+    "address": "Stavnsholtvej 29, 3520 Farum",
+    "region": "Region Hovedstaden",
+    "lat": 55.814058,
+    "lon": 12.387462
+  },
+  {
+    "name": "Marselisborg Gymnasium",
+    "address": "Birketinget 9, 8000 Århus C",
+    "region": "Region Midtjylland",
+    "lat": 56.139225,
+    "lon": 10.200715
+  },
+  {
+    "name": "Michael Skolen hf",
+    "address": "Stokholtbuen 25, 2730 Herlev",
+    "region": "Region Hovedstaden",
+    "lat": 55.73592,
+    "lon": 12.405903
+  },
+  {
+    "name": "Middelfart Gymnasium og HF",
+    "address": "Østre Hougvej 97, 5500 Middelfart",
+    "region": "Region Syddanmark",
+    "lat": 55.494173,
+    "lon": 9.738609
+  },
+  {
+    "name": "Midtfyns Gymnasium",
+    "address": "Holmehoejvej 4, 5750 Ringe",
+    "region": "Region Syddanmark",
+    "lat": 55.241178,
+    "lon": 10.467962
+  },
+  {
+    "name": "Midtsjællands gymnasieskoler",
+    "address": "Skolegade 31, 4690 Haslev",
+    "region": "Region Sjælland",
+    "lat": 55.321063,
+    "lon": 11.957297
+  },
+  {
+    "name": "Miðnámsskúlin á Kambsdali – Kambsdal College",
+    "address": "Kambsdalur 530, Fuglafjoedur, Foeroya",
+    "region": "Færøerne",
+    "lat": 62.219263,
+    "lon": -6.810047
+  },
+  {
+    "name": "Miðnámsskúlin í Suðuroy",
+    "address": "Groenudalur 2, FO-950 Porkeri",
+    "region": "Ukendt",
+    "lat": 61.504597,
+    "lon": -6.775251
+  },
+  {
+    "name": "Morsø Gymnasium",
+    "address": "Limfjordsvej 95, 7900 Nykoebing M",
+    "region": "Region Midtjylland",
+    "lat": 56.784969,
+    "lon": 8.83583
+  },
+  {
+    "name": "Mulernes Legatskole",
+    "address": "Gillestedvej 11, 5240 Odense NØ",
+    "region": "Region Syddanmark",
+    "lat": 55.408452,
+    "lon": 10.42754
+  },
+  {
+    "name": "Munkensdam Gymnasium",
+    "address": "Toendervej 100, 6000 Kolding",
+    "region": "Region Syddanmark",
+    "lat": 55.485735,
+    "lon": 9.456747
+  },
+  {
+    "name": "N. Zahles Gymnasieskole",
+    "address": "Nørre Voldgade 5, 1358 København K",
+    "region": "Region Hovedstaden",
+    "lat": 55.682471,
+    "lon": 12.569831
+  },
+  {
+    "name": "Nakskov Gymnasium",
+    "address": "Soevej 6, 4900 Nakskov",
+    "region": "Region Sjælland",
+    "lat": 54.835063,
+    "lon": 11.139365
+  },
+  {
+    "name": "NEXT – Uddannelse København",
+    "address": "Carl Jacobsens Vej 25, 2500 Valby",
+    "region": "Region Hovedstaden",
+    "lat": 55.653869,
+    "lon": 12.515988
+  },
+  {
+    "name": "Niels Steensens Gymnasium",
+    "address": "Sankt Kjelds Gade 3, 2100 København Ø",
+    "region": "Region Hovedstaden",
+    "lat": 55.708192,
+    "lon": 12.567022
+  },
+  {
+    "name": "Nordfyn Gymnasium",
+    "address": "Hoejagervej 25, 5471",
+    "region": "Region Syddanmark",
+    "lat": 55.49005,
+    "lon": 10.242839
+  },
+  {
+    "name": "Nordsjællands Grundskole & Gymnasium",
+    "address": "Christianshusvej 195, 2970 Hørsholm",
+    "region": "Region Hovedstaden",
+    "lat": 55.90323,
+    "lon": 12.47452
+  },
+  {
+    "name": "Nordvestsjællands Erhvervs- og Gymnasieuddannelser",
+    "address": "Absalonsvej 20, 4300 Holbæk",
+    "region": "Region Sjælland",
+    "lat": 55.712489,
+    "lon": 11.707305
+  },
+  {
+    "name": "Nyborg Gymnasium",
+    "address": "Skolebakken 13, 5800 Nyborg",
+    "region": "Region Syddanmark",
+    "lat": 55.322262,
+    "lon": 10.795852
+  },
+  {
+    "name": "Nykøbing Katedralskole",
+    "address": "Poul Martin Moellersvej 3, 4800 Nykoebing F",
+    "region": "Region Sjælland",
+    "lat": 54.774502,
+    "lon": 11.875876
+  },
+  {
+    "name": "Nærum Gymnasium",
+    "address": "Nærum Hovedgade 30, 2850 Nærum",
+    "region": "Region Hovedstaden",
+    "lat": 55.818893,
+    "lon": 12.533369
+  },
+  {
+    "name": "Næstved Gymnasium og HF",
+    "address": "Nygårdsvej 43, 4700 Næstved",
+    "region": "Region Sjælland",
+    "lat": 55.219165,
+    "lon": 11.768195
+  },
+  {
+    "name": "Nørre Gymnasium",
+    "address": "Mørkhøjvej 78, 2700 Broenshoej",
+    "region": "Region Hovedstaden",
+    "lat": 55.718276,
+    "lon": 12.470865
+  },
+  {
+    "name": "Nørrebro Gymnasium",
+    "address": "Titangade 13A, 2200 Koebenhavn N",
+    "region": "Region Hovedstaden",
+    "lat": 55.704817,
+    "lon": 12.553554
+  },
+  {
+    "name": "Nørresundby Gymnasium & HF",
+    "address": "Studievej 14, 9400 Noerresundby",
+    "region": "Region Nordjylland",
+    "lat": 57.074832,
+    "lon": 9.940404
+  },
+  {
+    "name": "Odder Gymnasium",
+    "address": "Østermarksvej 25, 8300 Odder",
+    "region": "Region Midtjylland",
+    "lat": 55.97231,
+    "lon": 10.167911
+  },
+  {
+    "name": "Odense Katedralskole",
+    "address": "Jernbanegade 34, 5000 Odense C",
+    "region": "Region Syddanmark",
+    "lat": 55.39895,
+    "lon": 10.383757
+  },
+  {
+    "name": "Ordrup Gymnasium",
+    "address": "Kirkevej 5, 2920 Charlottenlund",
+    "region": "Region Hovedstaden",
+    "lat": 55.759968,
+    "lon": 12.575546
+  },
+  {
+    "name": "Paderup Gymnasium",
+    "address": "Apollovej 64, 8960 Randers SØ",
+    "region": "Region Midtjylland",
+    "lat": 56.431933,
+    "lon": 10.074464
+  },
+  {
+    "name": "Randers HF og VUC",
+    "address": "Nålemagervej 110, 8920 Randers NV",
+    "region": "Region Midtjylland",
+    "lat": 56.473677,
+    "lon": 10.007493
+  },
+  {
+    "name": "Randers Statsskole",
+    "address": "Rådmands Boulevard 20, 8900 Randers C",
+    "region": "Region Midtjylland",
+    "lat": 56.469463,
+    "lon": 10.026855
+  },
+  {
+    "name": "Ribe Katedralskole",
+    "address": "Puggaardsgade 22, 6760 Ribe",
+    "region": "Region Syddanmark",
+    "lat": 55.326416,
+    "lon": 8.76037
+  },
+  {
+    "name": "Ringkjøbing Gymnasium",
+    "address": "Vasevej 24, 6950 Ringkoebing",
+    "region": "Region Syddanmark",
+    "lat": 56.093741,
+    "lon": 8.260225
+  },
+  {
+    "name": "Risskov Gymnasium",
+    "address": "Tranekærvej 70, 8240 Risskov",
+    "region": "Region Midtjylland",
+    "lat": 56.194416,
+    "lon": 10.209643
+  },
+  {
+    "name": "Rosborg Gymnasium og HF",
+    "address": "Vestre Engvej 61, 7100 Vejle",
+    "region": "Region Midtjylland",
+    "lat": 55.70704,
+    "lon": 9.514257
+  },
+  {
+    "name": "Roskilde Gymnasium",
+    "address": "Domkirkepladsen, 4000 Roskilde",
+    "region": "Region Sjælland",
+    "lat": 55.642189,
+    "lon": 12.079078
+  },
+  {
+    "name": "Roskilde Katedralskole",
+    "address": "Holbækvej 59, 4000 Roskilde",
+    "region": "Region Sjælland",
+    "lat": 55.63423,
+    "lon": 12.057751
+  },
+  {
+    "name": "Rudolf Steiner Skolen Kvistgård",
+    "address": "Kvistgård Stationsvej 2 A-B, 3490 Kvistgård",
+    "region": "Region Hovedstaden",
+    "lat": 56.000638,
+    "lon": 12.496296
+  },
+  {
+    "name": "Rudolf Steiner-Skolen i Odense",
+    "address": "Lindvedvej 64, 5260 Odense S",
+    "region": "Region Syddanmark",
+    "lat": 55.341182,
+    "lon": 10.416009
+  },
+  {
+    "name": "Rungsted Gymnasium",
+    "address": "Stadionalle 14, 2960 Rungsted Kyst",
+    "region": "Region Hovedstaden",
+    "lat": 55.896138,
+    "lon": 12.519728
+  },
+  {
+    "name": "Rybners Gymnasium",
+    "address": "Grådybparken 11, 6700 Esbjerg",
+    "region": "Region Syddanmark",
+    "lat": 55.480172,
+    "lon": 8.434419
+  },
+  {
+    "name": "Rysensteen Gymnasium",
+    "address": "Tietgensgade 74, 1704 København V",
+    "region": "Region Hovedstaden",
+    "lat": 55.670107,
+    "lon": 12.563231
+  },
+  {
+    "name": "Rødkilde Gymnasium",
+    "address": "Roedkildevej 42, 7100 Vejle",
+    "region": "Region Midtjylland",
+    "lat": 55.710835,
+    "lon": 9.554385
+  },
+  {
+    "name": "Rødovre Gymnasium",
+    "address": "Hendriksholms Boulevard 28, 2610 Roedovre",
+    "region": "Region Hovedstaden",
+    "lat": 55.666944,
+    "lon": 12.457466
+  },
+  {
+    "name": "Sankt Annæ Gymnasium",
+    "address": "Sjæloer Boulevard 135, 2500 Valby",
+    "region": "Region Hovedstaden",
+    "lat": 55.6563,
+    "lon": 12.524833
+  },
+  {
+    "name": "Sct. Knuds Gymnasium",
+    "address": "Læssoeegade 154, 5230 Odense M",
+    "region": "Region Syddanmark",
+    "lat": 55.377562,
+    "lon": 10.383532
+  },
+  {
+    "name": "Silkeborg Gymnasium",
+    "address": "Oslovej 10, 8600 Silkeborg",
+    "region": "Region Midtjylland",
+    "lat": 56.182751,
+    "lon": 9.599737
+  },
+  {
+    "name": "Skanderborg Gymnasium",
+    "address": "Hoejvangens Torv 6, 8660 Skanderborg",
+    "region": "Region Midtjylland",
+    "lat": 56.044453,
+    "lon": 9.944529
+  },
+  {
+    "name": "Skive Gymnasium og HF",
+    "address": "Egerisvej 180, 7800 Skive",
+    "region": "Region Midtjylland",
+    "lat": 56.554255,
+    "lon": 9.025698
+  },
+  {
+    "name": "Slagelse Gymnasium",
+    "address": "Willemoesvej 2A, 4200 Slagelse",
+    "region": "Region Sjælland",
+    "lat": 55.401136,
+    "lon": 11.336516
+  },
+  {
+    "name": "Solrød Gymnasium",
+    "address": "Solrød Center 2, 2680 Solrød Strand",
+    "region": "Region Hovedstaden",
+    "lat": 55.533417,
+    "lon": 12.212306
+  },
+  {
+    "name": "Sorø Akademis Skole",
+    "address": "Akademigrunden 8, 4180 Sorø",
+    "region": "Region Sjælland",
+    "lat": 55.429437,
+    "lon": 11.557292
+  },
+  {
+    "name": "Stenhus Gymnasium og HF",
+    "address": "Stenhusvej 20, 4300 Holbæk",
+    "region": "Region Sjælland",
+    "lat": 55.711371,
+    "lon": 11.679008
+  },
+  {
+    "name": "Struer Statsgymnasium",
+    "address": "Jyllandsgade 2, 7600 Struer",
+    "region": "Region Midtjylland",
+    "lat": 56.490616,
+    "lon": 8.601219
+  },
+  {
+    "name": "Støvring Gymnasium",
+    "address": "Mastrupvej 77, 9530 Stoevring",
+    "region": "Region Nordjylland",
+    "lat": 56.880692,
+    "lon": 9.829548
+  },
+  {
+    "name": "Svendborg Gymnasium",
+    "address": "A P Møllers Vej 35, 5700 Svendborg",
+    "region": "Region Syddanmark",
+    "lat": 55.05328,
+    "lon": 10.590312
+  },
+  {
+    "name": "Syddjurs Gymnasium",
+    "address": "Kr Herskindsvej 6, 8410 Roende",
+    "region": "Region Midtjylland",
+    "lat": 56.302122,
+    "lon": 10.475333
+  },
+  {
+    "name": "Sønderborg Statsskole",
+    "address": "Kongevej 37, 6400 Soenderborg",
+    "region": "Region Syddanmark",
+    "lat": 54.907742,
+    "lon": 9.79486
+  },
+  {
+    "name": "Th. Langs HF-kursus og VUC",
+    "address": "Hostrupsgade 52, 8600 Silkeborg",
+    "region": "Region Midtjylland",
+    "lat": 56.165352,
+    "lon": 9.546018
+  },
+  {
+    "name": "Thisted Gymnasium – stx og hf",
+    "address": "Ringvej 32, 7700 Thisted",
+    "region": "Region Midtjylland",
+    "lat": 56.966129,
+    "lon": 8.698747
+  },
+  {
+    "name": "Thy-Mors HF & VUC",
+    "address": "Munkevej 9, 7700 Thisted Region Nordjylland",
+    "region": "Region Nordjylland",
+    "lat": 56.955461,
+    "lon": 8.699949
+  },
+  {
+    "name": "Tornbjerg Gymnasium",
+    "address": "Skærmhatten 15, 5220 Odense SØ",
+    "region": "Region Syddanmark",
+    "lat": 55.3694,
+    "lon": 10.461174
+  },
+  {
+    "name": "Tårnby Gymnasium",
+    "address": "Tejn Alle 5, 2770 Kastrup",
+    "region": "Region Hovedstaden",
+    "lat": 55.637676,
+    "lon": 12.603257
+  },
+  {
+    "name": "Tønder Gymnasium og HF",
+    "address": "Astronom Hansensgade 9, 6270 Tønder",
+    "region": "Region Syddanmark",
+    "lat": 54.937432,
+    "lon": 8.866592
+  },
+  {
+    "name": "Tørring Gymnasium",
+    "address": "Kirkevej 20, 7160 Tørring",
+    "region": "Region Midtjylland",
+    "lat": 55.863311,
+    "lon": 9.48363
+  },
+  {
+    "name": "U/NORD",
+    "address": "Hjortehoejsvej 1, 2800 Kongens Lyngby",
+    "region": "Region Hovedstaden",
+    "lat": 55.779453,
+    "lon": 12.533926
+  },
+  {
+    "name": "Varde Gymnasium og HF",
+    "address": "Frisvadvej 72, 6800 Varde",
+    "region": "Region Syddanmark",
+    "lat": 55.633975,
+    "lon": 8.495354
+  },
+  {
+    "name": "Vejen Gymnasium og Erhvervsskole",
+    "address": "Petersmindevej 3, 6600 Vejen",
+    "region": "Region Syddanmark",
+    "lat": 55.473177,
+    "lon": 9.120741
+  },
+  {
+    "name": "Vestfyns Gymnasium",
+    "address": "Langbygårdsvej 4, 5620 Glamsbjerg",
+    "region": "Region Syddanmark",
+    "lat": 55.271859,
+    "lon": 10.110358
+  },
+  {
+    "name": "Vesthimmerlands Gymnasium",
+    "address": "Jyllandsgade 52, 9600 Aars",
+    "region": "Region Nordjylland",
+    "lat": 56.800359,
+    "lon": 9.523225
+  },
+  {
+    "name": "Vestjysk Gymnasium Tarm",
+    "address": "Skolegade 15, 6880 Tarm",
+    "region": "Region Syddanmark",
+    "lat": 55.906237,
+    "lon": 8.522842
+  },
+  {
+    "name": "Viborg Gymnasium og HF",
+    "address": "Skaldehoejvej 12, 8800 Viborg",
+    "region": "Region Midtjylland",
+    "lat": 56.463585,
+    "lon": 9.450969
+  },
+  {
+    "name": "Viborg Katedralskole",
+    "address": "Gl. Skivevej 2, 8800 Viborg",
+    "region": "Region Midtjylland",
+    "lat": 56.457954,
+    "lon": 9.411962
+  },
+  {
+    "name": "Viby Gymnasium og HF",
+    "address": "Søndervangs Alle 45, 8260 Viby J",
+    "region": "Region Midtjylland",
+    "lat": 56.112862,
+    "lon": 10.152517
+  },
+  {
+    "name": "Virum Gymnasium",
+    "address": "Fuglsangvej 66, 2830 Virum",
+    "region": "Region Hovedstaden",
+    "lat": 55.790579,
+    "lon": 12.479584
+  },
+  {
+    "name": "Vordingborg Gymnasium & HF",
+    "address": "Chr Richardtsvej 45, 4760 Vordingborg",
+    "region": "Region Sjælland",
+    "lat": 55.015089,
+    "lon": 11.915883
+  },
+  {
+    "name": "Århus Akademi",
+    "address": "Goeteborg Alle 2, 8200 Århus N",
+    "region": "Region Midtjylland",
+    "lat": 56.183043,
+    "lon": 10.195574
+  },
+  {
+    "name": "Århus Statsgymnasium",
+    "address": "Fenrisvej 33, 8210 Århus V",
+    "region": "Region Midtjylland",
+    "lat": 56.162164,
+    "lon": 10.171071
+  },
+  {
+    "name": "Øregård Gymnasium",
+    "address": "Gersonsvej 32, 2900 Hellerup",
+    "region": "Region Hovedstaden",
+    "lat": 55.737997,
+    "lon": 12.566703
+  },
+  {
+    "name": "Ørestad Gymnasium",
+    "address": "Ørestads Boulevard 75, 2300 København S",
+    "region": "Region Hovedstaden",
+    "lat": 55.631681,
+    "lon": 12.581103
+  }
+]
